@@ -1,0 +1,4 @@
+Ageu;0299273;Masculino;;1º;1º Semestre;
+Victor;763783;Masculino;;1º;2º Semestre;
+Enoque;763783ja9LA394;Masculino;;2º;1º Semestre;
+Vaz;763783ja9LA394;Masculino;;2º;1º Semestre;
